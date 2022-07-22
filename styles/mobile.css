@@ -1,8 +1,0 @@
-
-@media (max-width: 40em) {
-    #content {
-        grid-template-areas:
-        "introduction"
-        "skills";
-    }
-}
